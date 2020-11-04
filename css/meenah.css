@@ -1,0 +1,21 @@
+.parallax-container-1{
+    background-image: url(https://images.unsplash.com/photo-1533204515132-035bc8d4128c?ixlib=rb-1.2.1&w=1000&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 60vh;
+}
+.parallax-container-2{
+    background-image: url(https://i.pinimg.com/originals/68/14/36/68143623b69003bedb09ff3a72852287.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 60vh;
+}
+.parallax-container-3{
+    background-image: url(https://i.pinimg.com/originals/b4/8e/6d/b48e6d6ada7017fa19bc2cd91b9085ed.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 60vh;
+}
